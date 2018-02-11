@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/KharifModel" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
